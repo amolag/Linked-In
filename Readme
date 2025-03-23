@@ -1,0 +1,24 @@
+# Professional Media
+
+## 📌 Project Overview
+
+**Professional Media** is a social networking platform designed for professionals to connect, share insights, and build meaningful relationships. The platform allows users to create profiles, post updates, engage with content, and expand their professional network.
+
+## 🚀 Features
+
+- **User Authentication:** Sign up, log in, log out, and secure authentication using JWT.
+- **Profile Management:** Users can update their profiles, including profile pictures, banners, and personal details.
+- **Connections & Networking:** Send connection requests, accept requests, and grow a professional network.
+- **Posts & Engagement:** Create posts, like, comment, and share professional updates.
+- **Messaging:** Secure direct messaging between users for networking.
+- **Notifications:** Receive real-time alerts for connection requests, post interactions, and messages.
+- **Search & Discover:** Find professionals based on skills, industries, or keywords.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB with Mongoose
+- **Authentication:** JWT, bcrypt
+- **File Uploads:** Cloudinary (for profile pictures and banners)
+- **Deployment:** Render
