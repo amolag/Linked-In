@@ -59,7 +59,7 @@ const SignUpForm = () => {
       />
       <input
         type="password"
-        placeholder="Password (6+ characters)"
+        placeholder="Password (8+ characters)"
         value={password}
         onChange={(e) => setPassword(e.target.value)}
         className="input input-bordered w-full"
